@@ -1,12 +1,12 @@
 # Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
+title: 疫情疫苗问题全局情报搜集系统
+email: a1360071901@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  疫情疫苗问题全局情报搜集系统、世界UFO百年历史与研究整理、阴谋论术语如何被CIA塑造成压制大众怀疑的口头机制、情报部门与其媒体资产、哈佛教授呼吁政府渗透阴谋论团体破坏其声誉、专家们潜意识助推知识过滤
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+url: http://imgs.yansu.org # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: 按辔
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -14,11 +14,11 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: suyan404
-weibo: suyan0830
-github: suyan
-instagram: suyan404
-linkedin: suyan404
+twitter: 
+weibo: 
+github: 
+instagram:
+linkedin:
 
 # avatar and Favicon
 avatar: http://imgs.yansu.org/site-avatar.png
