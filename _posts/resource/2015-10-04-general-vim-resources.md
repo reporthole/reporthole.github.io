@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Vim 常用资源
-category: 资源
+title: 测试
+category: 测试
 tags: Vim
 keywords: Vim
 ---
