@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 书单-讨药企檄-医药界的腐败和迷思
-category: report2
+category: 书单
 keywords: 阅读,书单,疫情,疫苗
 ---
 
