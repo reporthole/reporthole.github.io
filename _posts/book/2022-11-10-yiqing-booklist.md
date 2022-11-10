@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 关于疫情问题的书籍
-category: 读书
+category: 书单,report2
 keywords: 阅读,书单,疫情,疫苗
 ---
 
