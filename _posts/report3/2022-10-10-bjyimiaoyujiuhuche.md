@@ -41,6 +41,12 @@ keywords: 新冠,疫情,疫苗,观察性
 
 
 
+其实这个指纹级关联在粗统计上也能略窥一二，我同样把北京卫健委的心血管救护车的全部数据集中了一变，但明显仍是与2019年相减后得到的折线图更直观
+
+<img src="https://raw.githubusercontent.com/reporthole/report5/main/QQ%E6%88%AA%E5%9B%BE20230131215355.png" style="zoom:50%;" />
+
+![](https://raw.githubusercontent.com/reporthole/report5/main/QQ%E6%88%AA%E5%9B%BE20230130231749.png)
+
 
 
 总之，这次数据处理的收获蛮令人惊喜的。
@@ -49,7 +55,15 @@ keywords: 新冠,疫情,疫苗,观察性
 
 
 
-附图：
+附：
+
+我汇总了完整的北京救护车数据：
+
+![](https://raw.githubusercontent.com/reporthole/report5/main/QQ%E6%88%AA%E5%9B%BE20230130232016.png)
+
+
+
+另：
 
 ![](https://raw.githubusercontent.com/reporthole/report5/main/%E5%90%88%E5%B9%B612%E9%92%88%E5%BF%83%E8%84%91.png)
 
