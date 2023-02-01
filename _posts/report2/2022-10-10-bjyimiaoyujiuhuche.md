@@ -9,7 +9,9 @@ keywords: 新冠,疫情,疫苗,观察性
 
 
 
-真没想到国内居然也能找到这种指纹级的证据…和图二美国的数据一样是四五个月的高峰滞后，我今天做出这几张图后真就说不出话来了…我提前想过拟合后可能会有类似规律，但没想到会如此吻合…<img src="https://raw.githubusercontent.com/reporthole/report5/main/%E5%8C%97%E4%BA%AC%E4%B8%89%E9%92%88%E4%B8%8E%E5%BF%83%E8%A1%80%E7%AE%A1%E6%95%91%E6%8A%A4%E8%B6%85%E9%A2%9D.png" style="zoom: 25%;" />
+真没想到国内居然也能找到这种指纹级的证据…和图二美国的数据一样是四五个月的高峰滞后，我今天做出这几张图后真就说不出话来了…我提前想过拟合后可能会有类似规律，但没想到会如此吻合…
+
+<img src="https://raw.githubusercontent.com/reporthole/report5/main/%E5%8C%97%E4%BA%AC%E4%B8%89%E9%92%88%E4%B8%8E%E5%BF%83%E8%A1%80%E7%AE%A1%E6%95%91%E6%8A%A4%E8%B6%85%E9%A2%9D.png" style="zoom: 25%;" />
 
 
 
@@ -66,6 +68,12 @@ keywords: 新冠,疫情,疫苗,观察性
 另：
 
 <img src="https://raw.githubusercontent.com/reporthole/report5/main/%E5%90%88%E5%B9%B612%E9%92%88%E5%BF%83%E8%84%91.png" style="zoom:25%;" />
+
+
+
+test
+
+![](https://raw.githubusercontent.com/reporthole/report5/main/QQ%E6%88%AA%E5%9B%BE20221115182307.png)
 
 
 
