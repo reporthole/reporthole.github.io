@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  丬匕京救护车数据与接肿剂次间的指纹级联系
-category: report2
+category: report3
 keywords: 新冠,疫情,疫苗,观察性
 ---
 
