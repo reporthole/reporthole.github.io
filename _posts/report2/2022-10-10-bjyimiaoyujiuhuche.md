@@ -7,7 +7,13 @@ keywords: 新冠,疫情,疫苗,观察性
 
 **北京救护车数据与疫苗接种剂次间的指纹级联系** 
 
+2023.2.4更新：
 
+<img src="https://raw.githubusercontent.com/reporthole/report5/main/%E6%8C%87%E7%BA%B9%E8%81%94%E7%B3%BB%20%E5%9C%88%20yu.png" style="zoom:25%;" />
+
+
+
+原：
 
 真没想到国内居然也能找到这种指纹级的证据…和图二美国的数据一样是四五个月的高峰滞后，我今天做出这几张图后真就说不出话来了…我提前想过拟合后可能会有类似规律，但没想到会如此吻合…
 
@@ -47,7 +53,7 @@ keywords: 新冠,疫情,疫苗,观察性
 
 <img src="https://raw.githubusercontent.com/reporthole/report5/main/QQ%E6%88%AA%E5%9B%BE20230131215355.png" style="zoom: 25%;" />
 
-<img src="https://raw.githubusercontent.com/reporthole/report5/main/QQ%E6%88%AA%E5%9B%BE20230130231749.png" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/reporthole/report5/main/QQ%E6%88%AA%E5%9B%BE20230130231749.png" style="zoom: 25%;" />
 
 
 
