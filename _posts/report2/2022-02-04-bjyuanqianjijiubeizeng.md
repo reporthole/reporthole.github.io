@@ -11,7 +11,7 @@ keywords: 新冠,疫情,观察性,急救
 
 <img src="https://raw.githubusercontent.com/reporthole/report5/main/QQ%E6%88%AA%E5%9B%BE20230204174158.png" style="zoom:25%;" />
 
-各区域大图：
+分区域大图：
 
 <img src="https://raw.githubusercontent.com/reporthole/report5/main/%E9%99%A2%E5%89%8D%E6%80%A5%E6%95%91%E5%88%861se.png" style="zoom:25%;" />
 
