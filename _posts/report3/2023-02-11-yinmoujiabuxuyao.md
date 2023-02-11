@@ -1,6 +1,6 @@
 ---
 layout: post
-title:为什么阴谋家用不着阴谋？
+title:  为什么阴谋家用不着阴谋？
 category: report3
 keywords: 阴谋论，阴谋
 ---
