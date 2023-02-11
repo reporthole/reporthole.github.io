@@ -52,9 +52,7 @@ https://www.ama.org/publications/MarketingNews/Pages/under-armour-wills-itself-t
 
 人类互动的本质是时尚潮流，这是引发社会脆弱性的本金，它承担着类似于无约束的原子堆（反应堆核心）的动力。在上面引用的两个案例中，个人话语和部落效应的势头就是中子点火源，进入了一堆压缩和焦虑的年轻人（燃料）——他们就像最多可达750,000只的欧洲椋鸟群，这些人对认同感的渴望则是能被开发和利用的理想动能。 
 
-<img src="https://raw.githubusercontent.com/reporthole/report5/main/%E6%A4%8B%E9%B8%9F.jpg" style="zoom:25%;" />
-
-
+<img src="https://raw.githubusercontent.com/reporthole/report5/main/%E7%BE%A4%E9%B8%9F1%E5%B0%8F.png" style="zoom:25%;" />
 
 没有其他鸟类能像欧洲椋鸟这样高度复杂却又充满协调性地成群飞行。椋鸟的群体飞行通过一种“无标度行为相关”（scale-free behavioral correlation）的机制维持，其中的每只鸟通过四周大约七只鸟的位置来调整自己的行动，从而使鸟群整体协调运动，产生一种重叠的同步性。
 
