@@ -39,7 +39,7 @@ https://www.ama.org/publications/MarketingNews/Pages/under-armour-wills-itself-t
 
 人类互动的本质为时尚潮流，这是引发社会脆弱性的本金，它承担着类似于无约束的原子堆（反应堆核心）的动力。在上面引用的两个案例研究中，个人陈述和部落效应的势头是一个中子点火源，进入一堆压缩和焦虑的年轻人（燃料），就像最多可达750,000只的欧洲椋鸟群，这些人对认同感的渴望则是能被开发和利用的理想动能。 
 
-![](https://raw.githubusercontent.com/reporthole/report5/main/%E6%A4%8B%E9%B8%9F.jpg)
+<img src="https://raw.githubusercontent.com/reporthole/report5/main/%E6%A4%8B%E9%B8%9F.jpg" style="zoom:25%;" />
 
 
 
